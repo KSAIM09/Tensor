@@ -1,0 +1,90 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# IDEs and editors
+.vscode/
+.idea/
+.DS_Store
+
+# React build files
+build/
+public/
+
+# Ignore all env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# misc
+*.swp
+*~
+
+# MacOS files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Coverage results
+coverage/
+
+# Local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel-bundler cache
+.cache
+
+# Next.js build output
+.next
+
+# SvelteKit build / temporary files
+.svelte-kit
+
+# Remix build / temporary files
+.build
